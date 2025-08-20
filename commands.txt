@@ -25,3 +25,11 @@ command for listing remote
 > git remote -v
 command for adding remote repository
 > git remote add name remote_path
+
+
+commit history
+> git log
+command for listing all branch
+> git branch
+
+
