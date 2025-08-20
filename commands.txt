@@ -21,3 +21,7 @@ command for adding all staged files to local repository
 command for adding changes in local repository to remote repository
 > git push -u remote-name branch-name
 git push -u luminar master
+command for listing remote
+> git remote -v
+command for adding remote repository
+> git remote add name remote_path
