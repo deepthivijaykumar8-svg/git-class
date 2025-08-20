@@ -1,0 +1,20 @@
+
+command for listing configauration details
+> git config --listing
+command for adding user name
+> git config --global user.name "username"
+
+command for adding user email
+> git config --global user.email "useremail"
+
+command for initialize git repository
+> git init
+
+command for listing all untraked files
+> git status
+
+command for adding to staging area
+> git add -A
+
+command for adding all staged files to local repository
+> git commit  -m "commit message"
